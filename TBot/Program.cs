@@ -55,7 +55,7 @@ namespace TBot
         {
             return new AppSettings()
             {
-                BotToken = "5585931894:AAE4AKL7WXyt3XGF9QxaWmvX7--sV5LKehs"
+                BotToken = "BOT_TOKEN"
             };
         }
     }
